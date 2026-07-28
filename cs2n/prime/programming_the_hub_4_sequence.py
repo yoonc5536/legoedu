@@ -1,5 +1,12 @@
+# LEGO slot:0 autostart
+# Title: Programming the Hub with SPIKE PRIME (3.0)
+# Topic: Lesson: Programming a Sequence
+# URL: https://www.cs2n.org/u/mp/badge_pages/2765
+# Source: cs2n.org — Coding and Computational Thinking with LEGO SPIKE Prime (3.0)
 import runloop
 from hub import light_matrix
+
+# Short: Plays a short sequence of light patterns on the hub.
 
 # This program makes a simple animation on the hub.
 # It shows one column of lights at a time, like a moving bar.

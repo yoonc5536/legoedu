@@ -1,7 +1,13 @@
 # LEGO slot:0 autostart
+# Title: Programming the Hub with SPIKE PRIME (3.0)
+# Topic: Lesson: Light commands
+# URL: https://www.cs2n.org/u/mp/badge_pages/2764
+# Source: cs2n.org — Coding and Computational Thinking with LEGO SPIKE Prime (3.0)
 
-from hub import light, light_matrix
+from hub import light_matrix
 import runloop
+
+# Short: Shows a happy face image on the hub screen.
 
 async def main():
     # This is our first light-program for the LEGO SPIKE Prime hub.

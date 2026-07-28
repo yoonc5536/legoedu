@@ -1,5 +1,11 @@
+# LEGO slot:0 autostart
+# Title: Programming the Hub with SPIKE PRIME (3.0)
+# Topic: Challenge: Advertising!
+# URL: https://www.cs2n.org/u/mp/badge_pages/2768
+# Source: cs2n.org — Coding and Computational Thinking with LEGO SPIKE Prime (3.0)
 import runloop
 from hub import light_matrix
+# Short: Animates patterns to look like a simple advertisement.
 
 # This program creates a simple animated advertisement on the hub.
 # It uses a sequence of light patterns so the display looks like a billboard.

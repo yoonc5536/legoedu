@@ -1,5 +1,13 @@
+# LEGO slot:0 autostart
+# Title: Programming the Hub with SPIKE PRIME (3.0)
+# Topic: Lesson: Light commands
+# URL: https://www.cs2n.org/u/mp/badge_pages/2764
+# Source: cs2n.org — Coding and Computational Thinking with LEGO SPIKE Prime (3.0)
+# Start imports
 import runloop
 from hub import light_matrix
+
+# Short: Shows a simple 5x5 light pattern on the hub screen.
 
 # This is the last quiz challenge from the lesson.
 # We are making a pattern on the 5x5 light matrix of the hub.
