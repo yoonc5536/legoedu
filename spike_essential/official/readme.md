@@ -1,6 +1,6 @@
-# LEGO® Education SPIKE™ Essential Lessons & Community Projects Index
+# LEGO® Education SPIKE™ Essential Official Lessons Index
 
-A complete index of official LEGO® Education SPIKE™ Essential lessons organized by unit, along with custom community/fan-created build projects. Designed for elementary school students (Grades 1–5), these resources integrate STEAM concepts, computational thinking, engineering design, and storytelling.
+A complete index of official LEGO® Education SPIKE™ Essential lessons organized by unit. Designed for elementary school students (Grades 1–5), these unit lessons integrate STEAM concepts, computational thinking, engineering design, and storytelling.
 
 ---
 
@@ -14,7 +14,6 @@ A complete index of official LEGO® Education SPIKE™ Essential lessons organiz
 - [Animals and Their Environments (Grade 3)](#animals-and-their-environments-grade-3)
 - [Science We Cannot See (Grade 5)](#science-we-cannot-see-grade-5)
 - [FIRST LEGO League Explore (Grades 1–4)](#first-lego-league-explore-grades-14)
-- [Community & Fan Projects](#community--fan-projects)
 
 ---
 
@@ -136,28 +135,3 @@ Focuses on team brainstorming, collaborative building, and introductory robotics
 | Lesson | Duration | Level | Grade | Description | Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Explore Lesson 1** | 30-45 min | Beginner | 1-4 | Practice brainstorming, iterative model building, and team collaboration | [View Lesson](https://education.lego.com/en-us/lessons/spikeessential-first-lego-league-explore/spikeessential-explore-lesson-1/) |
-
----
-
-## Community & Fan Projects
-Custom animal builds and robotic models designed by the LEGO community (e.g., FLLCasts-style). These projects typically use Word Blocks and step-by-step PDF or web instructions.
-
-| Project | Source / Type | Level | Language | Description | Building & Code Links |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **Sea Lion** | Fan / Community | Beginner | Word Blocks | Simple sea-lion-themed robot with flippers and motion | [Model Building](https://spike.legoeducation.com/essential/models/) \| [Sample Code](https://spike.legoeducation.com/essential/lobby/) |
-| **Turtle** | Fan / Community | Beginner | Word Blocks | Turtle robot that moves and reacts to touch | [Model Building](https://spike.legoeducation.com/essential/models/) \| [Sample Code](https://spike.legoeducation.com/essential/lobby/) |
-| **Bee** | Fan / Community | Beginner | Word Blocks | Bee-like robot with buzzing and flying motion | [Model Building](https://spike.legoeducation.com/essential/models/) \| [Sample Code](https://spike.legoeducation.com/essential/lobby/) |
-| **Frog** | Fan / Community | Beginner | Word Blocks | Frog that jumps and reacts to input | [Model Building](https://spike.legoeducation.com/essential/models/) \| [Sample Code](https://spike.legoeducation.com/essential/lobby/) |
-| **Butterfly** | Fan / Community | Beginner | Word Blocks | Butterfly with flapping wings and lights | [Model Building](https://spike.legoeducation.com/essential/models/) \| [Sample Code](https://spike.legoeducation.com/essential/lobby/) |
-| **Puppy** | Fan / Community | Beginner | Word Blocks | Dog-like robot with simple behaviours | [Model Building](https://spike.legoeducation.com/essential/models/) \| [Sample Code](https://spike.legoeducation.com/essential/lobby/) |
-| **Kitten** | Fan / Community | Beginner | Word Blocks | Cat-like robot with playful actions | [Model Building](https://spike.legoeducation.com/essential/models/) \| [Sample Code](https://spike.legoeducation.com/essential/lobby/) |
-| **Elephant** | Fan / Community | Beginner | Word Blocks | Elephant robot with trunk movement | [Model Building](https://spike.legoeducation.com/essential/models/) \| [Sample Code](https://spike.legoeducation.com/essential/lobby/) |
-| **Penguin** | Fan / Community | Beginner | Word Blocks | Penguin that waddles and slides | [Model Building](https://spike.legoeducation.com/essential/models/) \| [Sample Code](https://spike.legoeducation.com/essential/lobby/) |
-| **Lion** | Fan / Community | Beginner | Word Blocks | Lion robot with roaring sound and motion | [Model Building](https://spike.legoeducation.com/essential/models/) \| [Sample Code](https://spike.legoeducation.com/essential/lobby/) |
-| **Giraffe** | Fan / Community | Beginner | Word Blocks | Giraffe with neck movement and basic logic | [Model Building](https://spike.legoeducation.com/essential/models/) \| [Sample Code](https://spike.legoeducation.com/essential/lobby/) |
-| **Monkey** | Fan / Community | Beginner | Word Blocks | Monkey that swings and makes sounds | [Model Building](https://spike.legoeducation.com/essential/models/) \| [Sample Code](https://spike.legoeducation.com/essential/lobby/) |
-| **Zebra** | Fan / Community | Beginner | Word Blocks | Zebra robot with simple walk pattern | [Model Building](https://spike.legoeducation.com/essential/models/) \| [Sample Code](https://spike.legoeducation.com/essential/lobby/) |
-| **Crocodile** | Fan / Community | Beginner | Word Blocks | Crocodile that snaps its jaw | [Model Building](https://spike.legoeducation.com/essential/models/) \| [Sample Code](https://spike.legoeducation.com/essential/lobby/) |
-| **Shark** | Fan / Community | Beginner | Word Blocks | Shark that swims and reacts to sensors | [Model Building](https://spike.legoeducation.com/essential/models/) \| [Sample Code](https://spike.legoeducation.com/essential/lobby/) |
-| **Octopus** | Fan / Community | Beginner | Word Blocks | Octopus with moving arms and lights | [Model Building](https://spike.legoeducation.com/essential/models/) \| [Sample Code](https://spike.legoeducation.com/essential/lobby/) |
-| **Jellyfish** | Fan / Community | Beginner | Word Blocks | Jellyfish that floats and pulses with light | [Model Building](https://spike.legoeducation.com/essential/models/) \| [Sample Code](https://spike.legoeducation.com/essential/lobby/) |
