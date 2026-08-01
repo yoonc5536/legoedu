@@ -1,13 +1,38 @@
-# LEGO SPIKE Prime Public Projects
+# LEGO SPIKE Prime Open Projects
 
-This page collects public LEGO SPIKE Prime builds and code walkthroughs shared by various creators. The entries below are grouped by source so they are easier to browse in GitHub.
+This page collects public LEGO SPIKE Prime builds and code walkthroughs shared by various creators. The entries are grouped by channel so it is easier to browse by creator, theme, and build style.
 
 ## Quick overview
 
 - Total projects: 103
-- Sources included: Robot Man, FREE TIME JP, Xiao Pang, Kabod Brick, RoboWiki, and 조이코딩(Joseph’s Dream)
+- Channels included: 6
+- Best for: beginner-friendly motion builds, mechanical challenge builds, and creative engineering ideas
+
+| Channel | Projects | Typical focus | Common format |
+|---|---:|---|---|
+| Robot Man | 20 | Motion, sensors, and game-style builds | YouTube build + code walkthrough |
+| FREE TIME JP | 15 | Mechanical gadgets, toys, and playful inventions | YouTube build + code walkthrough |
+| Xiao Pang | 10 | Compact builds with clever mechanisms and simple logic | YouTube build + code walkthrough |
+| Kabod Brick | 16 | Sports, fitness, and themed mechanisms | YouTube video + PDF building instructions |
+| RoboWiki | 9 | Robotics concepts, walking robots, and vehicles | YouTube build + PDF instructions |
+| 조이코딩 (Joseph’s Dream) | 33 | Creative machines, vehicles, and animal-inspired robots | YouTube build + code walkthrough |
+
+### Recommended starting points
+
+- If you want simple motion and sensor ideas: Robot Man
+- If you want playful mechanical inventions: FREE TIME JP
+- If you want short and approachable builds: Xiao Pang
+- If you want sports and themed mechanisms: Kabod Brick
+- If you want robotics concepts and walking machines: RoboWiki
+- If you want the largest collection of creative builds: 조이코딩 (Joseph’s Dream)
+
+---
 
 ## Robot Man
+
+- Projects: 20
+- Focus: motion, sensors, and game-style builds
+- Typical format: YouTube build + code walkthrough
 
 | Project | Skill Level | Build Format | Language | Summary | Resources |
 |---|---|---|---|---|---|
@@ -34,6 +59,10 @@ This page collects public LEGO SPIKE Prime builds and code walkthroughs shared b
 
 ## FREE TIME JP
 
+- Projects: 15
+- Focus: mechanical gadgets, toys, and playful inventions
+- Typical format: YouTube build + code walkthrough
+
 | Project | Skill Level | Build Format | Language | Summary | Resources |
 |---|---|---|---|---|---|
 | Pinball Machine | Intermediate | YouTube build + code walkthrough | Word Blocks / Python | Motorized pinball machine build featuring flippers, score/target sensing, and a ball launcher. | [Build](https://youtu.be/v7asuw8RaN4) · [Code](https://youtu.be/v7asuw8RaN4) |
@@ -54,6 +83,10 @@ This page collects public LEGO SPIKE Prime builds and code walkthroughs shared b
 
 ## Xiao Pang
 
+- Projects: 10
+- Focus: compact builds with clever mechanisms and simple logic
+- Typical format: YouTube build + code walkthrough
+
 | Project | Skill Level | Build Format | Language | Summary | Resources |
 |---|---|---|---|---|---|
 | Scale (電子秤) | Intermediate | YouTube build + code walkthrough | Word Blocks | Digital scale build using a force sensor to measure weight and display values on the matrix display. | [Build](https://youtu.be/m97aLy_wadw) · [Code](https://youtu.be/m97aLy_wadw) |
@@ -68,6 +101,10 @@ This page collects public LEGO SPIKE Prime builds and code walkthroughs shared b
 | Helicopter | Intermediate | YouTube build + code walkthrough | Word Blocks | Motorized rotor craft with geared main and tail blade drive train. | [Build](https://youtu.be/EvWXfimxzjE) · [Code](https://youtu.be/EvWXfimxzjE) |
 
 ## Kabod Brick
+
+- Projects: 16
+- Focus: sports, fitness, and themed mechanisms
+- Typical format: YouTube video + PDF building instructions
 
 | Project | Skill Level | Build Format | Language | Summary | Resources |
 |---|---|---|---|---|---|
@@ -90,6 +127,10 @@ This page collects public LEGO SPIKE Prime builds and code walkthroughs shared b
 
 ## RoboWiki: Robotics Instruction
 
+- Projects: 9
+- Focus: robotics concepts, walking robots, and vehicles
+- Typical format: YouTube build + PDF instructions
+
 | Project | Skill Level | Build Format | Language | Summary | Resources |
 |---|---|---|---|---|---|
 | Table Fan & Tachometer | Beginner–Intermediate | YouTube build + PDF instructions | Word Blocks / Spike App | Motorized tabletop fan build paired with a rotational tachometer sensor mechanism. | [Build](https://youtu.be/kaLas03Camw) · [Code](https://robo-wiki.com/) |
@@ -103,6 +144,10 @@ This page collects public LEGO SPIKE Prime builds and code walkthroughs shared b
 | Forklift Truck | Intermediate | YouTube build + PDF instructions | Word Blocks / Spike App | Functional warehouse forklift model featuring motorized vertical mast lifting mechanism. | [Build](https://youtu.be/BhI1rX4YVI8) · [Code](https://robo-wiki.com/) |
 
 ## 조이코딩(Joseph’s Dream)
+
+- Projects: 33
+- Focus: creative machines, vehicles, and animal-inspired robots
+- Typical format: YouTube build + code walkthrough
 
 | Project | Skill Level | Build Format | Language | Summary | Resources |
 |---|---|---|---|---|---|
